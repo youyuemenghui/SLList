@@ -2,7 +2,7 @@
 
 int main()
 {
-  IntSLList<float> Slist;
+  SLList<float> Slist;
   Slist.Push(5.0);
   Slist.Push(4.0);
   Slist.Push(3.0);
